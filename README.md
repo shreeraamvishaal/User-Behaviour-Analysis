@@ -5,21 +5,13 @@ The goal of this project is to develop a solution that analyzes user interaction
 
 ## Solution Overview
 
-### 1. Exploratory Data Analysis (EDA)
 - Analyzed user interaction data to identify key engagement trends.
 - Generated visualizations to uncover patterns in user behavior across different app features.
-
-### 2. Feature Engineering
 - Integrated multiple data sources, including top screens visited by users, to better understand interaction patterns.
 - Cleaned and processed the data for better accuracy in segmenting users.
-
-### 3. Community Segmentation
 - Used clustering algorithms to identify distinct community groups based on user interests and interaction behavior.
 - Categorized users into different segments such as highly engaged, moderately engaged, and inactive users.
 
-### 4. Personalization Strategies
-- Suggested AI/ML-driven strategies to personalize user experiences based on their behavior.
-- Recommended targeted content and engagement strategies to improve user retention and satisfaction.
 
 ## Conclusion
 This solution identifies community segments within the user base and provides actionable insights for improving user engagement. Personalization strategies can be implemented to enhance user experience and foster stronger community connections.
